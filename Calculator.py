@@ -8,4 +8,5 @@ def mul(a, b):
     return a * b
 
 def div(a, b):
+    b=0
     return a / b
